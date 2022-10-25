@@ -121,7 +121,8 @@ ul li.home a {
 }
 
 .explore-a {
-    position: relative;
+    position: relative; 
+
 }
 
 .explore-a img {
@@ -131,6 +132,7 @@ ul li.home a {
     margin-top: 450px;
     margin-left: 10px;
     border-radius: 15px;
+
 }
 
 .textImg {
